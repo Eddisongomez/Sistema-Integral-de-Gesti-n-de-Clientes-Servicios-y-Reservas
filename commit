@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Sistema completo Software FJ - POO + Excepciones"
+git branch -M main
+git remote add origin https://github.com/tuusuario/software-fj-sistema-gestion.git
+git push -u origin main
